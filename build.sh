@@ -1,3 +1,3 @@
 #!/bin/bash
-docker build --rm -t bassoman/docker-lxde-vnc .
+docker build --rm -t bassoman/lxde-vnc .
 
