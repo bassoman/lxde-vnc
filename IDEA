@@ -1,0 +1,4 @@
+#!/bin/sh
+export IDEA_HOME="/opt/idea-IC-162.2032.8/bin"
+
+$IDEA_HOME/idea.sh $*
